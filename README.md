@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCU6-p41TPCzCNnUkgkIap1w)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devxyear?igshid=YzU1NGVlODEzOA==)
-[![Linkedin](https://img.shields.io/badge/linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyear-dev-88b183297/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyear-dev-88b183297/)
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pigmeu200&show_icons=true&theme=dark&count_private=true)

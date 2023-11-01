@@ -5,7 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyear-dev-88b183297/)
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pigmeu200&show_icons=true&theme=dark&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pigmeu200&show_icons=true&theme=tokyonight&count_private=true)
+
+
 
 ## Tecnologias que eu uso no meu dia
 
